@@ -5,6 +5,8 @@ This is a build of a demo MVC app from Adam Freeman's ASP.NET Core 3 Textbook. T
 This is an exercise in Adam Freeman's Pro ASP.NET Core 3, Eighth Edition. For more information, follow this link:
 [https://www.apress.com/gp/book/9781484254394.](https://www.apress.com/gp/book/9781484254394.)
 
+Chapter 7
+----------------------------------------------------------------------------------------
 ## Build PowerShell Script
 
     dotnet new globaljson --sdk-version 5.0.201 --output DansStoreSln/OutdoorProducts
@@ -52,4 +54,16 @@ Added page links, tests and styling <br>
 ![img](images/Fig7-5Pg142.JPG)
 ![img](images/Fig7-7Pg149.JPG)
 ![img](images/Fig7-9Pg154.JPG)
-    
+
+Chapter 8
+----------------------------------------------------------
+
+## Step 2: Add, Filter, and Highlight Category
+![img](images/Fig8-5Pg171.JPG)
+
+## Step 3: Add Shopping Cart and Session data
+![img](images/Fig8-10Pg186.JPG)
+![img](images/Fig8-11Pg186.JPG)
+
+## Step 4: Expanded Test Explorer Displaying All Unit Tests
+![img](images/TestExplorerChapter8.JPG)
