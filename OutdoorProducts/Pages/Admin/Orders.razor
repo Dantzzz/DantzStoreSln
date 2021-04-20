@@ -22,7 +22,7 @@
     }
     public void ShipOrder(int id) => UpdateOrder(id, true);
     public void ResetOrder(int id) => UpdateOrder(id, false);
-    private void UpdateOrder(int id, bool shipValue)
+    private void UpdateOrder(int id, bool shipValue)    
     {
         Order o = Repository.Orders.FirstOrDefault(o => o.OrderID == id);
         o.Shipped = shipValue;
